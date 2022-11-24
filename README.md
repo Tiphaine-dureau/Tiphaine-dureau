@@ -1,7 +1,5 @@
 ## Bonjour à tous et bienvenue sur mon GitHub ! 👋
 
-##
-
 ### Je suis en formation pour devenir Concepteur Développeur de Solutions Digitales 👩🏻‍💻
 
 #### Voici quelques statistiques de mon profil :
