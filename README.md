@@ -4,7 +4,7 @@
 
 #### Pour ma veille quotidienne, j'utilise Daily.dev : 
 
-<a href="https://app.daily.dev/tiphaine685"><img src="https://api.daily.dev/devcards/v2/Qn8kgJz9POE4fVmSpXeHu.png?type=default&r=ipe" width="356" alt="Tiphaine du Réau's Dev Card"/></a>
+<a href="https://app.daily.dev/tiphaine_dureau"><img src="https://api.daily.dev/devcards/v2/Qn8kgJz9POE4fVmSpXeHu.png?type=default&r=x5q" width="356" alt="Tiphaine du Réau's Dev Card"/></a> 
 
 #### Voici quelques statistiques de mon profil personel :
 
