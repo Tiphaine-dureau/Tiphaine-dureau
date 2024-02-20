@@ -1,27 +1,15 @@
 ## Bonjour à tous et bienvenue sur mon GitHub ! 👋
 
-### Je suis en formation pour devenir Concepteur Développeur de Solutions Digitales 👩🏻‍💻
+### Je suis développeuse de solutions digitales 👩🏻‍💻. Actuellement, je travaille en tant que développeuse mobile (Angular, Ionic).
 
-#### Voici quelques statistiques de mon profil :
+#### Pour ma veille quotidienne, j'utilise Daily.dev : 
 
+<a href="https://app.daily.dev/tiphaine685"><img src="https://api.daily.dev/devcards/v2/Qn8kgJz9POE4fVmSpXeHu.png?type=default&r=ipe" width="356" alt="Tiphaine du Réau's Dev Card"/></a>
+
+#### Voici quelques statistiques de mon profil personel :
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Tiphaine-dureau&theme=dracula)  
 ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Tiphaine-dureau&theme=dracula)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Tiphaine-dureau&theme=dracula) 
 
 
-
-<!--
-**Tiphaine-dureau/Tiphaine-dureau** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
